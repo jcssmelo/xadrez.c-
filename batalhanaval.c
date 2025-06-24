@@ -113,7 +113,8 @@ int main() {
     aplicarHabilidade(tabuleiro, octaedro, 7, 7);
     printf("Tabuleiro após aplicar Habilidade - Octaedro:\n");
     exibirTabuleiro(tabuleiro);
-
+     
+    printf ("new comitt /n");
     return 0;
 }
 
