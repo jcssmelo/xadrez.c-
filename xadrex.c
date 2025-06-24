@@ -98,5 +98,6 @@ int main() {
 
     moverCavalo();  // Movimentos complexos do cavalo
 
+    printf ("novo commit /n");
     return 0;
 }
